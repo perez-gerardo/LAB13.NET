@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Packages / logs
+*.log
+packages/
+.nuget/
+
+# Secretos locales
+appsettings.Local.json
+*.pfx
